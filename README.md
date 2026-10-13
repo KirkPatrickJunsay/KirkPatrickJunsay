@@ -10,6 +10,10 @@ I build mobile apps with .NET MAUI and Android, mostly small, privacy-first tool
 - [The Android keyboard opens on the first tap](https://github.com/Droid-Deck/DroidDeck/pull/665)
 - [The Debugging tools hint points to the right screen](https://github.com/Droid-Deck/DroidDeck/pull/725)
 
+**[.NET MAUI](https://github.com/dotnet/maui)** is Microsoft's cross-platform app framework (C#).
+
+- In review: [Fix ImageButton not rendering on Android when CornerRadius is larger than half its size](https://github.com/dotnet/maui/pull/39344)
+
 ## Apps I've built
 
 - **[Push-up Track](https://github.com/KirkPatrickJunsay/Push-Up-Track)**: counts your push-ups and grades your form with on-device pose AI.
